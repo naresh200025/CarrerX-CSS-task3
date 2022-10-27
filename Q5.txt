@@ -1,0 +1,13 @@
+a[href*='florence'] {
+  color: lightgreen;
+}
+
+h1 h2{
+  font family:Georgia;
+}
+
+p{
+  font-family: helvetica;
+  font-size: 18px;
+  font-weight:bold;
+}
